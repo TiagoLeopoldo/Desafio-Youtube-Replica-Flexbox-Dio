@@ -9,7 +9,7 @@ Este projeto é uma atividade do curso da [DIO.me](https://www.dio.me), cujo obj
 
 ## Descrição do Projeto 📄
 
-Este projeto consiste na criação de um clone de uma do YouTube, focando na aplicação prática das propriedades do Flexbox para organizar e alinhar os elementos da página.
+Este projeto consiste na criação de um clone de uma página do YouTube, focando na aplicação prática das propriedades do Flexbox para organizar e alinhar os elementos da página.
 
 ## Estrutura do Projeto 🏗️
 
