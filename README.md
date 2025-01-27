@@ -20,4 +20,4 @@ Este projeto consiste na criação de um clone de uma do YouTube, focando na apl
 
 Você pode visualizar o design do projeto no Figma através do [link do Figma](https://www.figma.com/file/lrRWUZPKnqMDZrSDJmZxUS/Desafio-de-Flexbox---DIO?node-id=0%3A1).
 
-##[link do Projeto]().🚀
+[link do Projeto](https://tiagoleopoldo.github.io/Desafio-Youtube-Replica-Flexbox-Dio/).🚀
